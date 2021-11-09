@@ -1,0 +1,12 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '10.0'
+
+target 'visionbank' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for visionbank
+  
+pod 'REIOSSDK_79f647df_f43f_44b2_8cf3_e6a2a975f9ee'
+
+end
